@@ -240,6 +240,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/xiaomi/santoni/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
     vendor/xiaomi/santoni/proprietary/lib/libmorpho_panorama.so:system/lib/libmorpho_panorama.so \
+	vendor/xiaomi/santoni/proprietory/lib/libprotobuf-cpp-full.so:system/lib/libprotobuf-cpp-full.so \
     vendor/xiaomi/santoni/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/santoni/proprietary/lib/libsigchain.so:system/lib/libsigchain.so \
     vendor/xiaomi/santoni/proprietary/lib/libstagefright_omx.so:system/lib/libstagefright_omx.so \
@@ -272,6 +273,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib64/libmm-omxcore.so:system/lib64/libmm-omxcore.so \
     vendor/xiaomi/santoni/proprietary/lib64/libmorpho_memory_allocator.so:system/lib64/libmorpho_memory_allocator.so \
     vendor/xiaomi/santoni/proprietary/lib64/libmorpho_panorama.so:system/lib64/libmorpho_panorama.so \
+	vendor/xiaomi/santoni/proprietory/lib64/libprotobuf-cpp-full.so:system/lib64/libprotobuf-cpp-full.so \
     vendor/xiaomi/santoni/proprietary/lib64/libsigchain.so:system/lib64/libsigchain.so \
     vendor/xiaomi/santoni/proprietary/lib64/libstagefright_omx.so:system/lib64/libstagefright_omx.so \
     vendor/xiaomi/santoni/proprietary/lib64/libstagefright_soft_flacdec.so:system/lib64/libstagefright_soft_flacdec.so \
